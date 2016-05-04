@@ -1,0 +1,3 @@
+2.  Predicted rating for User 1 - Item 914 : 4.347448311140787
+    Predicted rating for User 1757 - Item 1777 : 3.6835923308071994
+    Predicted rating for User 1759 - Item 231 : 3.893399539210032

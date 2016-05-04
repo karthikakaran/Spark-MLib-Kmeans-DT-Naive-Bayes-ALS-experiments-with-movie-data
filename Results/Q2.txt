@@ -1,0 +1,11 @@
+Decision Tree classifier:
+
+Total Accuracy = 71.60493827160494
+
+NaiveBayes classifier:
+
+Total accuracy = 45.67901234567901
+
+
+
+

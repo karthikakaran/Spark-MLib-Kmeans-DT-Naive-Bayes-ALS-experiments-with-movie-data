@@ -1,0 +1,71 @@
+
+Cluster: 4
+2180,Torn Curtain (1966),Thriller
+2306,Holy Man (1998),Comedy
+2054,Honey, I Shrunk the Kids (1989),Adventure|Children's|Comedy|Fantasy|Sci-Fi
+2309,Inheritors, The (Die Siebtelbauern) (1998),Drama
+2210,Sabotage (1936),Thriller
+
+Cluster: 0
+3035,Mister Roberts (1955),Comedy|Drama|War
+2983,Ipcress File, The (1965),Thriller
+2849,Queens Logic (1991),Comedy|Drama
+2991,Live and Let Die (1973),Action
+3032,Omega Man, The (1971),Sci-Fi
+
+Cluster: 1
+558,Pagemaster, The (1994),Action|Adventure|Animation|Children's|Fantasy
+377,Speed (1994),Action|Romance|Thriller
+546,Super Mario Bros. (1993),Action|Adventure|Children's|Sci-Fi
+383,Wyatt Earp (1994),Western
+513,Radioland Murders (1994),Comedy|Mystery|Romance
+
+Cluster: 6
+3325,Next Best Thing, The (2000),Comedy|Drama
+3232,Seven Chances (1925),Comedy
+3516,Bell, Book and Candle (1958),Comedy|Romance
+3539,Filth and the Fury, The (2000),Documentary
+3353,Closer You Get, The (2000),Comedy|Romance
+
+Cluster: 3
+3818,Pot O' Gold (1941),Comedy|Musical
+3740,Big Trouble in Little China (1986),Action|Comedy
+3804,H.O.T.S. (1979),Comedy
+3802,Freejack (1992),Action|Sci-Fi
+3836,Kelly's Heroes (1970),Action|Comedy|War
+
+Cluster: 7
+1617,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller
+1349,Nosferatu a Venezia (1986),Horror
+1376,Star Trek IV: The Voyage Home (1986),Action|Adventure|Sci-Fi
+1603,Mimic (1997),Sci-Fi|Thriller
+1386,Terror in a Texas Town (1958),Western
+
+Cluster: 9
+176,Living in Oblivion (1995),Comedy
+273,Mary Shelley's Frankenstein (1994),Drama|Horror
+160,Congo (1995),Action|Adventure|Mystery|Sci-Fi
+254,Jefferson in Paris (1995),Drama
+174,Jury Duty (1995),Comedy
+
+Cluster: 8
+2516,Children of the Corn III (1994),Horror
+2687,Tarzan (1999),Animation|Children's
+2459,Texas Chainsaw Massacre, The (1974),Horror
+2430,Mighty Joe Young (1949),Adventure|Children's|Drama
+2689,Get Bruce (1999),Documentary
+
+Cluster: 5
+1973,Freddy's Dead: The Final Nightmare (1991),Horror
+1963,Take the Money and Run (1969),Comedy
+1750,Star Kid (1997),Adventure|Children's|Fantasy|Sci-Fi
+1991,Child's Play (1988),Horror
+1767,Music From Another Room (1998),Drama|Romance
+16/04/08 18:49:30 INFO Executor: Finished task 0.0 in stage 22.0 (TID 22). 886 bytes result sent to driver
+
+Cluster: 2
+1151,Faust (1994),Animation|Comedy|Thriller
+876,Police Story 4: Project S (Chao ji ji hua) (1993),Action
+1174,Grosse Fatigue (1994),Comedy
+1000,Curdled (1996),Crime
+761,Phantom, The (1996),Adventure
